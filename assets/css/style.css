@@ -1,0 +1,100 @@
+/* * {
+  color:#777777;
+  font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+  max-width: 960px;
+} */
+
+nav {
+  max-width: 960px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  height: 70px;
+  background: #fff;
+  border-radius: 5px;
+  box-shadow: 5px 55px 50px -20px #b6b6b6; 
+
+  
+}
+
+ul {
+  padding: 0;
+  list-style: none;
+}
+.name {
+  margin-left: #;
+  background-color: #4aaaa5;
+  height: 70px;
+  width: 200px;
+
+  display: flex;
+  margin-left:none;
+  margin-right: auto;
+}
+.aboutMe {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.contact {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+.portfolio {
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* .tealBox {
+  align-content:left;
+  background-color: #4aaaa5;
+  text-align: center;
+  padding-top: 50px;
+  max-height: 100px;
+  width: 200px;
+}
+nav {
+  align-content: right;
+  display:flex;
+  flex-direction: row;
+  justify-content: right;
+  top: 0;
+  width: 100%;
+  background-color: red;
+} */
+
+/* 
+header {
+  background-color: #ffffff;
+  border: #cccccc;
+}
+body {
+  background-color: #ffffff;
+  border: #dddddd;
+  background-image: url("../images/fancy-cushion.png"); (uncomment this when ready, easier on the eyes while building)
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+h1 {
+  background-color: #4aaaa5;
+  font-family: 'Georgia', Times, 'Times New Roman', serif;
+} */
+
+/* .tealBox .navBar { */
+  /* display:flex;
+  flex-direction: row;
+  justify-content: right;
+  top: 0;
+  width: 100%;
+  background-color: red; */
+/* } */
+/* .aboutMe { */
+/*   
+}
+footer {
+  background-color: #666666;
+} */
